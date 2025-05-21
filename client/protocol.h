@@ -1,0 +1,14 @@
+#ifndef PROTOCOL_H
+#define PROTOCOL_H
+
+#define PORT 8080
+#define BUFFER_SIZE 1024
+
+// JSON anahtarları
+#define MSG_TYPE "type"
+#define MSG_STATUS_UPDATE "STATUS_UPDATE"
+#define MSG_MISSION "ASSIGN_MISSION"
+#define MSG_MISSION_COMPLETE "MISSION_COMPLETE"
+
+#endif
+
