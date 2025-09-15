@@ -123,14 +123,3 @@ Install SDL2 on Ubuntu:
 ```bash
 sudo apt install libsdl2-dev
 ```
-
----
-
-## 🧑‍💻 Contributors
-
-- Project Lead: [Your Name]
-- System Architecture: You
-- Visual Interface: You
-- Socket Integration: You
-
----
